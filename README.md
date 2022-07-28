@@ -13,12 +13,13 @@ Project Explanation -
 - [Part-2](https://youtu.be/Szh2v4yI4jY)
 
 ### Team:
+- Aarav Arya
 - Siddharth Gupta
 - Yash Ajitsaria
 - Pratyush Kumar
 - Shivam Singhal 
 - Ashfaq Ahmed
-- Aarav Arya
+
 
 ## Introduction:
 Our project deals with the application of Machine Learning in industrial environement in the field of Mechanical Engineering. Given vibrational data collected using 4 vibration sensors placed in four different corners of a gearbox, our model will analyse the data and predict if the gearbox has a broken tooth and hence, if the gearbox is healthy or not. 
